@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Marko!
+- 👀 I’m interested in programming and working with others!
