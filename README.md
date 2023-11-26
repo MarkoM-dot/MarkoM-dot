@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Marko!
-- 👀 Have a look around in my repo!
+- 👀 Have a look around!
